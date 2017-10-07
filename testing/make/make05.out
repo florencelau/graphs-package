@@ -1,0 +1,3 @@
+	kacc -o foo.c foo.k
+        gcc -g -c foo.o foo.c
+	gcc -o foo foo.o
